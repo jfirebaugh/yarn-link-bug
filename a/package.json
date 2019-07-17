@@ -1,0 +1,8 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "raven": "2.6.4"
+  }
+}
